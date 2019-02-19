@@ -1,4 +1,4 @@
-https://adventure--bot.herokuapp.com/ <-- hosted on heroku
+https://adventure--bot.herokuapp.com/ <-- follow this link to use the app on Heroku
 
 # <a href="https://github.com/rhildred/es6-twilio-chatbot" target="_blank">es6-twilio-chatbot</a>
 
@@ -22,5 +22,6 @@ Marking
 
 
 
-#   C h o o s e - y o u r - o w n - a d v e n t u r e - g a m e  
+#   C h o o s e - y o u r - o w n - a d v e n t u r e - g a m e 
+ 
  
